@@ -7,7 +7,7 @@ var transporter = nodemailer.createTransport({
     pass: 'uuum dtsn jkad dwli'
   }
 });
-
+ /*theo garcia*/
 var mailOptions = {
   from: 'umsemighoul@gmail.com',
   to: 'joedio.borges@ifc.edu.br',
